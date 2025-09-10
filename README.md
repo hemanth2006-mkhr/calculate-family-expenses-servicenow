@@ -28,14 +28,14 @@ Demo video available in DEMO VIDEO.mp4
 ## 📂 Repo Structure
 calculate-family-expenses-servicenow/ 
                  │── Scripts/ │              
-# Daily → Monthly aggregation code │  business_rule.js 
-# Daily ↔ Monthly relationship filter │ relationship_refineQuery.js 
+# Daily → Monthly aggregation code │ ├── business_rule.js 
+# Daily ↔ Monthly relationship filter │ ├── relationship_refineQuery.js 
 
-# Screenshot of Application Menu │   App_Menu.png
-# Screenshot of Daily Expenses form │  Daily_Expenses_Form.png 
-# Screenshot of Daily Expenses Details │  Daily_Expenses.png 
-# Screenshot of Family Expenses │  Family_Expenses.png    
-# Screenshot showing related list │ Related_List.png   
-# Full project documentation │   Calculating_Family_Expenses_Servicenow_Documentation.pdf            
+# Screenshot of Application Menu │   ├── App_Menu.png
+# Screenshot of Daily Expenses form │  ├── Daily_Expenses_Form.png 
+# Screenshot of Daily Expenses Details │  ├── Daily_Expenses.png 
+# Screenshot of Family Expenses │  ├── Family_Expenses.png    
+# Screenshot showing related list │ ├── Related_List.png   
+# Full project documentation │   ├── Calculating_Family_Expenses_Servicenow_Documentation.pdf            
 # DEMO │  ├── DEMO VIDEO.mp4                                        
 # Project introduction & guide
