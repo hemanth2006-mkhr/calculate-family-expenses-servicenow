@@ -12,12 +12,6 @@ This project calculates *Daily Expenses* and automatically aggregates them into 
 - Scripts/business_rule.js → Aggregates Daily Expenses into Monthly Expenses.  
 - Scripts/relationship_refineQuery.js → Shows only matching Daily records in Monthly related list.  
 
-## 🎨 Frontend Proof
-Screenshots available in Screenshots/ folder:  
-- Daily Expenses 
-- Family Expenses 
-- Related List 
-
 ## 📑 Documentation
 Detailed project documentation available at:  
 Calculating_Family_Expenses_Servicenow_Documentation.pdf
